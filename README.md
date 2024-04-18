@@ -9,7 +9,7 @@ This project is a brand logo detection and brand name extraction pipeline in vid
 ## Notebooks
 
 This repo contains the following directories with notebooks for each part of the pipeline:
-- [Video Preprocessing](notebooks/brand_extractor)
+- [Video Preprocessing](notebooks/video_preprocessing)
 - [Logo Detection](notebooks/logo_detection)
 - [Logo Name Extraction](notebooks/logo_name_extraction)
 - [Pipeline](notebooks/pipeline)

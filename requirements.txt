@@ -5,3 +5,8 @@ matplotlib
 numpy
 ultralytics
 onnx
+Pillow
+paddlepaddle
+paddleocr
+scikit-image
+tqdm

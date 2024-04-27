@@ -12,3 +12,4 @@ scikit-image
 tqdm
 fuzzywuzzy
 python-Levenshtein
+onnxruntime
